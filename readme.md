@@ -28,7 +28,7 @@ Here is the sample incident with events and runbook.
 
 #### Incident Summary
 
-<img src="images/017-incident-reponse-inbox.png">
+<img src="images/017-incident-response-inbox.png">
 
 #### Incident Details - Events list
 
@@ -44,9 +44,6 @@ Here is the sample incident with events and runbook.
 
 #### Incident Details - Runbook associated
 <img src="images/021-incident-response-events-runbook.png">
-
-#### Incident Details - Runbook associated
-<img src="images/026-response-flow.png">
 
 --------
 
