@@ -56,13 +56,13 @@ Click on the `Infrastructure Monitoring`
 
 ## 3. Configuring Threshold
 
-### 3.1 Goto Threshold Page
+### Goto Threshold Page
 
 Click on the `Threshold` card
 
 <img src="images/002-card-threshold.png">
 
-### 3.1 Create Threshold for `Web UI service Response time high`
+### Create Threshold for `Web UI service Response time high`
 
 Here is the list of threshold created. You can click on `Create` button to create new.
 
@@ -160,8 +160,8 @@ Here is the Event Policy configuration for `Web UI Response time high`.
 
 Enter the parameters as highlighted.
 
-- Here the `sender name` attribute value refers to the `synthetic test` we created in the previous step.
-- Here the `summary` attribute value refers to the `threshold` we created in the previous step.
+- Here the `sender name` attribute value refers to the `synthetic test` that we created in the previous step.
+- Here the `summary` attribute value refers to the `threshold` that we created in the previous step.
 
 <img src="images/011-event-response-1.png">
 <img src="images/011-event-response-2.png">
